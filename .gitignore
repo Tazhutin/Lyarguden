@@ -1,0 +1,8 @@
+
+
+
+venv/
+Logs/
+__pycache__/
+conversationbot
+src.py
